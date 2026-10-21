@@ -1,0 +1,10 @@
+# Negeer alle afbeeldingen en resultaten (jpg, png, etc.)
+*.jpg
+*.png
+*.jpeg
+
+# Negeer specifieke mappen of bestanden zoals je PDF-document
+*.pt
+*.txt
+*.pdf
+description_Robbe_De_Wit.pdf
